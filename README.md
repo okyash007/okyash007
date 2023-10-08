@@ -24,7 +24,7 @@
 [![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/okyash007)
 
 
-### Frontend
+### Tech Stacks
 [![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux)](https://github.com/okyash007)
 [![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,mysql,firebase,aws,gcp)](https://github.com/okyash007)
 [![Tools](https://skillicons.dev/icons?i=git,github,linux,docker,vscode,idea)](https://github.com/okyash007)
