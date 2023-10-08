@@ -25,6 +25,6 @@
 
 
 ### Tech Stacks
-[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux)](https://github.com/okyash007)
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,mysql,firebase,aws,gcp)](https://github.com/okyash007)
-[![Tools](https://skillicons.dev/icons?i=git,github,linux,docker,vscode,idea)](https://github.com/okyash007)
+[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,materialui,js,ts,react,redux,threejs)](https://github.com/okyash007)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,mysql,firebase)](https://github.com/okyash007)
+[![Tools](https://skillicons.dev/icons?i=git,github,linux,vscode,idea)](https://github.com/okyash007)
