@@ -25,6 +25,6 @@
 
 
 ### Frontend
-[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux)](https://github.com/abhishekHegde2000)
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,mysql,firebase,aws,gcp)](https://github.com/abhishekHegde2000)
-[![Tools](https://skillicons.dev/icons?i=git,github,linux,docker,vscode,idea)](https://github.com/abhishekHegde2000)
+[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux)](https://github.com/okyash007)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,mysql,firebase,aws,gcp)](https://github.com/okyash007)
+[![Tools](https://skillicons.dev/icons?i=git,github,linux,docker,vscode,idea)](https://github.com/okyash007)
