@@ -18,3 +18,13 @@
 <!-- - 👯 I’m looking for good Full-Stack Developer job opportunities. -->
 
 <hr/>
+
+## 🚀 Connect with me
+[![Github](https://skillicons.dev/icons?i=github)](https://github.com/okyash007)
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/okyash007)
+
+
+### Frontend
+[![Frontend](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,react,redux)](https://github.com/abhishekHegde2000)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongo,mysql,firebase,aws,gcp)](https://github.com/abhishekHegde2000)
+[![Tools](https://skillicons.dev/icons?i=git,github,linux,docker,vscode,idea)](https://github.com/abhishekHegde2000)
